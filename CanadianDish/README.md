@@ -41,7 +41,7 @@ Drinks API : https://www.thecocktaildb.com/api.php, Riddle API: https://api-ninj
 ## Usage
 
 
-### main.py getRecipe() - random recipe
+### simple.py getRecipe() - random recipe
 
 
 ### course.py getCourseRecipe( ??? ) - random recipe by course, 
