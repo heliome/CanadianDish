@@ -1,6 +1,0 @@
-setup.py
-CanadianDish.egg-info/PKG-INFO
-CanadianDish.egg-info/SOURCES.txt
-CanadianDish.egg-info/dependency_links.txt
-CanadianDish.egg-info/requires.txt
-CanadianDish.egg-info/top_level.txt
